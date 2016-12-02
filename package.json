@@ -1,0 +1,16 @@
+{
+  "name": "wanikani_kanji_dumper",
+  "version": "0.0.1",
+  "description": "dump kanji of specified levels to a file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Awpteamoose",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "fs-extended": "0.2.1",
+    "request": "2.79.0"
+  }
+}
